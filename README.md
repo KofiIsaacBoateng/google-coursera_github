@@ -1,3 +1,3 @@
 ## Google Coursera Github Repo
-This a repo for a course exam I'm taking on coursera provided by google.
+This is a repo for a practive quiz I tookon coursera provided by google.
 
